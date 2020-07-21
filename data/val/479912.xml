@@ -1,0 +1,39 @@
+
+<annotation>
+    <folder>data/val</folder>
+    <filename>479912.jpeg</filename>
+    <path>data/val/479912.jpeg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>478</width>
+        <height>640</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+        <object>
+            <name>Airplane</name>
+            <pose>Unspecified</pose>
+            <truncated>0</truncated>
+            <difficult>0</difficult>
+            <bndbox>
+                <xmin>0</xmin>
+                <ymin>227</ymin>
+                <xmax>326</xmax>
+                <ymax>448</ymax>
+            </bndbox>
+        </object>
+        <object>
+            <name>Airplane</name>
+            <pose>Unspecified</pose>
+            <truncated>0</truncated>
+            <difficult>0</difficult>
+            <bndbox>
+                <xmin>114</xmin>
+                <ymin>261</ymin>
+                <xmax>146</xmax>
+                <ymax>279</ymax>
+            </bndbox>
+        </object>
+</annotation>

@@ -1,0 +1,27 @@
+
+<annotation>
+    <folder>data/train</folder>
+    <filename>119562.jpeg</filename>
+    <path>data/train/119562.jpeg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>640</width>
+        <height>360</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+        <object>
+            <name>Train</name>
+            <pose>Unspecified</pose>
+            <truncated>0</truncated>
+            <difficult>0</difficult>
+            <bndbox>
+                <xmin>170</xmin>
+                <ymin>255</ymin>
+                <xmax>514</xmax>
+                <ymax>278</ymax>
+            </bndbox>
+        </object>
+</annotation>
