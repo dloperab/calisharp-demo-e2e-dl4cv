@@ -24,4 +24,40 @@
                 <ymax>269</ymax>
             </bndbox>
         </object>
+        <object>
+            <name>Train</name>
+            <pose>Unspecified</pose>
+            <truncated>0</truncated>
+            <difficult>0</difficult>
+            <bndbox>
+                <xmin>224</xmin>
+                <ymin>160</ymin>
+                <xmax>357</xmax>
+                <ymax>269</ymax>
+            </bndbox>
+        </object>
+        <object>
+            <name>Train</name>
+            <pose>Unspecified</pose>
+            <truncated>0</truncated>
+            <difficult>0</difficult>
+            <bndbox>
+                <xmin>224</xmin>
+                <ymin>160</ymin>
+                <xmax>357</xmax>
+                <ymax>269</ymax>
+            </bndbox>
+        </object>
+        <object>
+            <name>Train</name>
+            <pose>Unspecified</pose>
+            <truncated>0</truncated>
+            <difficult>0</difficult>
+            <bndbox>
+                <xmin>224</xmin>
+                <ymin>160</ymin>
+                <xmax>357</xmax>
+                <ymax>269</ymax>
+            </bndbox>
+        </object>
 </annotation>

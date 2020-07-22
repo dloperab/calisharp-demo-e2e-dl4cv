@@ -42,6 +42,18 @@
             <truncated>0</truncated>
             <difficult>0</difficult>
             <bndbox>
+                <xmin>18</xmin>
+                <ymin>230</ymin>
+                <xmax>286</xmax>
+                <ymax>359</ymax>
+            </bndbox>
+        </object>
+        <object>
+            <name>Train</name>
+            <pose>Unspecified</pose>
+            <truncated>0</truncated>
+            <difficult>0</difficult>
+            <bndbox>
                 <xmin>122</xmin>
                 <ymin>288</ymin>
                 <xmax>314</xmax>

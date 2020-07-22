@@ -42,6 +42,18 @@
             <truncated>0</truncated>
             <difficult>0</difficult>
             <bndbox>
+                <xmin>396</xmin>
+                <ymin>188</ymin>
+                <xmax>567</xmax>
+                <ymax>274</ymax>
+            </bndbox>
+        </object>
+        <object>
+            <name>Airplane</name>
+            <pose>Unspecified</pose>
+            <truncated>0</truncated>
+            <difficult>0</difficult>
+            <bndbox>
                 <xmin>5</xmin>
                 <ymin>241</ymin>
                 <xmax>76</xmax>

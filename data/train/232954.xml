@@ -1,0 +1,39 @@
+
+<annotation>
+    <folder>data/train</folder>
+    <filename>232954.jpeg</filename>
+    <path>data/train/232954.jpeg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>427</width>
+        <height>640</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+        <object>
+            <name>Train</name>
+            <pose>Unspecified</pose>
+            <truncated>0</truncated>
+            <difficult>0</difficult>
+            <bndbox>
+                <xmin>5</xmin>
+                <ymin>212</ymin>
+                <xmax>191</xmax>
+                <ymax>448</ymax>
+            </bndbox>
+        </object>
+        <object>
+            <name>Train</name>
+            <pose>Unspecified</pose>
+            <truncated>0</truncated>
+            <difficult>0</difficult>
+            <bndbox>
+                <xmin>178</xmin>
+                <ymin>256</ymin>
+                <xmax>246</xmax>
+                <ymax>347</ymax>
+            </bndbox>
+        </object>
+</annotation>

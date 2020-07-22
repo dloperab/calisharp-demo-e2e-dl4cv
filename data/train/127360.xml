@@ -36,4 +36,16 @@
                 <ymax>256</ymax>
             </bndbox>
         </object>
+        <object>
+            <name>Airplane</name>
+            <pose>Unspecified</pose>
+            <truncated>0</truncated>
+            <difficult>0</difficult>
+            <bndbox>
+                <xmin>448</xmin>
+                <ymin>187</ymin>
+                <xmax>572</xmax>
+                <ymax>256</ymax>
+            </bndbox>
+        </object>
 </annotation>
