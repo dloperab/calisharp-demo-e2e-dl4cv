@@ -1,0 +1,27 @@
+
+<annotation>
+    <folder>data/train</folder>
+    <filename>28157.jpeg</filename>
+    <path>data/train/28157.jpeg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>480</width>
+        <height>640</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+        <object>
+            <name>Airplane</name>
+            <pose>Unspecified</pose>
+            <truncated>0</truncated>
+            <difficult>0</difficult>
+            <bndbox>
+                <xmin>214</xmin>
+                <ymin>143</ymin>
+                <xmax>259</xmax>
+                <ymax>177</ymax>
+            </bndbox>
+        </object>
+</annotation>
