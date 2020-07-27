@@ -2,6 +2,10 @@
 
 Proyecto Deep Learning para Computer Vision (DL4CV) para meetup CaliSharp.
 
+# Presentación
+
+[Presentación Computer Vision End-to-End](ppt/ComputerVisionEnd2End.pdf)
+
 # DEMO
 
 ![Demo](assets/demo.png)
